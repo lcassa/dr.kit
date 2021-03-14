@@ -1,0 +1,26 @@
+{
+  "name": "dr.kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcassa/dr.kit.git"
+  },
+  "author": "Leandro Cassa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lcassa/dr.kit/issues"
+  },
+  "homepage": "https://github.com/lcassa/dr.kit#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "googleapis": "^67.1.1",
+    "path": "^0.12.7",
+    "pdf-lib": "^1.16.0"
+  }
+}
